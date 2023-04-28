@@ -1,0 +1,7 @@
+---
+all:
+  children:
+    web_servers:
+      hosts:
+        18.215.179.59
+
